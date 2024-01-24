@@ -13,3 +13,7 @@ The insights from the sentiment analysis will be used to promote more popular mo
 In this project, you are tasked to create a prototype NLP project that is capable of 'Sentiment Analysis' from movie reviews. 
 
 ---
+
+Instructions
+
+Download Pos and Neg Folders
