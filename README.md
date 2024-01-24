@@ -20,4 +20,4 @@ Download Pos and Neg Folders
 
 ---
 
-Pip install Requirements.txt
+Pip install requirements.txt
