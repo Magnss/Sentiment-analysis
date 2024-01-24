@@ -17,3 +17,7 @@ In this project, you are tasked to create a prototype NLP project that is capabl
 Instructions
 
 Download Pos and Neg Folders
+
+---
+
+Pip install Requirements.txt
